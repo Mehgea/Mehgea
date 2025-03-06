@@ -16,7 +16,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Meghea&theme=dark)
 
 
-📌 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghea&langs_count=8&layout=compact&theme=dark)
-
 
